@@ -38,7 +38,7 @@ class PMQuery {
 
 		fclose($socket);
 
-		if(empty($data) or $data === false) {
+		if(empty($data)) {
 			throw new PmQueryException("Server failed to respond", E_WARNING);
 		}
 		if(substr($data, 0, 1) !== "\x1C") {
