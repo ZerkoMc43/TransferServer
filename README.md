@@ -1,5 +1,5 @@
 # Information
-- TransferServer is a plugin mainly ideal for console gamers
+- TransferServer is a plugin mainly ideal for console gamers.
 
 | Command        | Description                                         |
 |----------------|-----------------------------------------------------|
