@@ -1,5 +1,5 @@
 name: TransferServer
 version: 1.0.0
 api: [4.0.0]
-main: Zerko43\Main
+main: Zerko43\TransferServer\Main
 author: Zerko43
