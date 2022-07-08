@@ -1,8 +1,10 @@
+## Information
 [![](https://poggit.pmmp.io/shield.state/TransferServer)](https://poggit.pmmp.io/p/TransferServer)
+[![](https://poggit.pmmp.io/shield.api/TransferServer)](https://poggit.pmmp.io/p/TransferServer)
 
-# Information
 - TransferServer is a plugin mainly ideal for console gamers
 
+## Command
 
 | Command        | Description                                         |
 |----------------|-----------------------------------------------------|
